@@ -1,0 +1,12 @@
+﻿{
+  "Id": "OilFX",
+  "Name": "OilFX 油光效果",
+  "Description": "给任意角色 mod 加油光/湿身效果：一键安装框架、按 mod 注入/还原、强度与款式调节、游戏内 Alt+小键盘热键。跟随 GameBanana mod 733773 更新框架。",
+  "Version": "1.2.0",
+  "Author": "OMniX",
+  "Type": "action",
+  "Glyph": "\uE9F0",
+  "Entry": "OmniX.Plugin.OilFX.exe",
+  "sourceUrl": "https://gamebanana.com/mods/733773",
+  "Games": []
+}
