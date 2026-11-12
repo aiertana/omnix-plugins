@@ -14,7 +14,7 @@ GameBanana mod 浏览/搜索/下载/安装插件。
 
 ## 下载
 
-[GameBananaStore_离线包.zip](./GameBananaStore_离线包.zip)
+[GameBananaStore-plugin.zip](./GameBananaStore-plugin.zip)
 
 ## 安装
 

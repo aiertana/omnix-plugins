@@ -6,8 +6,8 @@ OMniX 功能专区插件的集中仓库。**每个插件一个独立目录，按
 
 | 插件 | 版本 | 功能 | 宿主要求 | 下载 |
 |------|------|------|----------|------|
-| [OilFX 油光/湿身效果](./OilFX/) | 1.2.0 | customoilfx（mod 733773）跟随更新 + 参数调节 + 按角色挂钩 | 全版本（新宿主直开，旧版本自动用内置界面） | [OilFX_插件离线包.zip](./OilFX/OilFX_插件离线包.zip) |
-| [GameBanana](./GameBananaStore/) | 1.1.0 | GameBanana 在线商店：浏览/搜索/下载/安装 mod | v1.4.6+ 管道秒开；v1.4.5 自动 UIA 兜底 | [GameBananaStore_离线包.zip](./GameBananaStore/GameBananaStore_离线包.zip)（源码仓库：[OMniX-GameBanana](https://github.com/aiertana/OMniX-GameBanana)） |
+| [OilFX 油光/湿身效果](./OilFX/) | 1.2.0 | customoilfx（mod 733773）跟随更新 + 参数调节 + 按角色挂钩 | 全版本（新宿主直开，旧版本自动用内置界面） | [OilFX-plugin.zip](./OilFX/OilFX-plugin.zip) |
+| [GameBanana](./GameBananaStore/) | 1.1.0 | GameBanana 在线商店：浏览/搜索/下载/安装 mod | v1.4.6+ 管道秒开；v1.4.5 自动 UIA 兜底 | [GameBananaStore-plugin.zip](./GameBananaStore/GameBananaStore-plugin.zip)（源码仓库：[OMniX-GameBanana](https://github.com/aiertana/OMniX-GameBanana)） |
 
 ## 安装方法
 
@@ -38,12 +38,16 @@ omnix-plugins/
 ├── OilFX/                     # OilFX 插件（离线包 + 说明）
 │   ├── README.md
 │   ├── plugin.json
-│   └── OilFX_插件离线包.zip
+│   └── OilFX-plugin.zip
 └── GameBananaStore/           # GameBanana 商店插件
     ├── README.md
     ├── plugin.json
-    └── GameBananaStore_离线包.zip
+    └── GameBananaStore-plugin.zip
 ```
+
+> zip 用 ASCII 文件名：OMniX 功能专区的「下载插件」按钮直接拉
+> `raw.githubusercontent.com/aiertana/omnix-plugins/main/<目录>/<文件>.zip`，
+> 免得中文文件名的 URL 编码出幺蛾子。
 
 ## 许可
 

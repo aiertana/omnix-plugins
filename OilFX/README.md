@@ -11,7 +11,7 @@ customoilfx（GameBanana mod 733773，Febby315 制作）的跟随更新与参数
 
 ## 下载
 
-[OilFX_插件离线包.zip](./OilFX_插件离线包.zip)（约 76 MB，含 self-contained 独立界面，任何机器零依赖）
+[OilFX-plugin.zip](./OilFX-plugin.zip)（约 76 MB，含 self-contained 独立界面，任何机器零依赖）
 
 ## 安装
 
